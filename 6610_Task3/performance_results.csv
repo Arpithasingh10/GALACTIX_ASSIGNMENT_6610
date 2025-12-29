@@ -1,0 +1,5 @@
+Endpoint,Requests,IndividualExecutionTimeSeconds,ObservedTotalTimeSeconds
+Sync,1,2.013,2.013
+Async,1,1.999,1.999
+Sync,10,~2.00 each,~21
+Async,10,~2.00 each,~3

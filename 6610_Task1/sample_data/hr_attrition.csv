@@ -1,0 +1,61 @@
+﻿Age,Attrition,Department,JobRole,MonthlyIncome,YearsAtCompany,WorkLifeBalance,Gender
+28,Yes,Sales,Sales Executive,4500,2,3,Female
+35,No,Research & Development,Research Scientist,6200,6,4,Male
+42,No,Research & Development,Laboratory Technician,4800,10,2,Male
+29,Yes,Sales,Sales Executive,,1,3,Female
+33,No,Human Resources,HR Manager,7000,5,,Female
+41,Yes,Sales,Sales Representative,5200,8,2,Male
+26,No,Research & Development,Research Scientist,3900,1,4,Male
+38,No,Research & Development,Laboratory Technician,5100,9,3,NULL
+45,No,Sales,Manager,9000,20,2,Male
+31,Yes,Sales,Sales Executive,4600,3,3,Female
+31,Yes,Sales,Sales Executive,4600,3,3,Female
+27,No,Research & Development,Research Scientist,4200,2,4,Male
+36,No,Research & Development,Laboratory Technician,,7,2,Female
+50,No,Human Resources,HR Manager,8500,25,3,Male
+24,Yes,Sales,Sales Representative,3800,1,2,Female
+29,No,Research & Development,Research Scientist,4100,2,4,Male
+34,No,Research & Development,Laboratory Technician,4900,6,,Male
+40,Yes,Sales,Sales Executive,5600,12,1,Female
+37,No,Sales,Manager,7800,15,3,Male
+28,Yes,Sales,Sales Executive,,2,3,Female
+32,No,Research & Development,Research Scientist,6000,5,4,Male
+39,No,Research & Development,Laboratory Technician,5300,11,3,Female
+46,No,Sales,Manager,8800,22,2,Male
+30,Yes,Sales,Sales Representative,4200,4,3,Female
+25,No,Research & Development,Research Scientist,3700,1,4,NULL
+43,No,Human Resources,HR Manager,7600,18,2,Female
+48,No,Sales,Manager,9200,24,2,Male
+34,Yes,Sales,Sales Executive,4800,6,3,Female
+29,No,Research & Development,Research Scientist,,3,4,Male
+41,No,Research & Development,Laboratory Technician,5500,14,3,Female
+27,Yes,Sales,Sales Representative,3900,2,2,Female
+36,No,Research & Development,Research Scientist,6100,8,4,Male
+44,No,Sales,Manager,8300,19,,Male
+38,No,Research & Development,Laboratory Technician,5200,10,3,Female
+33,Yes,Sales,Sales Executive,4700,5,3,Female
+52,No,Human Resources,HR Manager,8900,28,2,Male
+26,No,Research & Development,Research Scientist,3600,1,4,Male
+31,Yes,Sales,Sales Representative,4100,4,3,Female
+35,No,Research & Development,Laboratory Technician,5000,7,3,Male
+47,No,Sales,Manager,8700,21,2,Male
+28,Yes,Sales,Sales Executive,4400,3,3,Female
+39,No,Research & Development,Research Scientist,6300,12,4,Male
+42,No,Research & Development,Laboratory Technician,,16,2,Female
+24,Yes,Sales,Sales Representative,3700,1,2,Female
+45,No,Sales,Manager,9100,23,2,Male
+30,No,Research & Development,Research Scientist,5800,6,4,Male
+34,No,Research & Development,Laboratory Technician,4950,7,,Female
+29,Yes,Sales,Sales Executive,4600,4,3,Female
+31,Yes,Sales,Sales Executive,4600,4,3,Female
+58,No,Sales,Manager,15000,35,2,Male
+58,No,Sales,Manager,15000,35,2,Male
+22,Yes,Research & Development,Research Scientist,3200,0,4,Female
+61,No,Human Resources,HR Director,18000,40,1,Male
+19,Yes,Sales,Sales Representative,2500,0,3,Female
+64,No,Sales,Manager,22000,42,2,Male
+45,No,Research & Development,Research Scientist,12500,20,4,Female
+23,Yes,Sales,Sales Executive,3000,1,3,Female
+59,No,Research & Development,Laboratory Technician,11000,30,2,Male
+60,No,Sales,Manager,20000,38,1,Male
+,,Sales,,99999,50,5,Unknown

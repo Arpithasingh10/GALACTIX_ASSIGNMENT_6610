@@ -1,0 +1,23 @@
+[
+    {
+        "timestamp": "2025-12-27T11:45:10",
+        "prompt_version": "Prompt 1",
+        "prompt": "Analyze the sentiment of the following text and classify it as Positive, Negative, or Neutral.",
+        "input_text": "The company culture is good, but the workload is stressful and deadlines are tight.",
+        "output": "Neutral"
+    },
+    {
+        "timestamp": "2025-12-27T11:45:12",
+        "prompt_version": "Prompt 2",
+        "prompt": "Determine the overall emotional tone of the text. Consider both positive and negative aspects before deciding.",
+        "input_text": "The company culture is good, but the workload is stressful and deadlines are tight.",
+        "output": "Mixed sentiment (neutral overall)"
+    },
+    {
+        "timestamp": "2025-12-27T11:45:14",
+        "prompt_version": "Prompt 3",
+        "prompt": "Classify the sentiment of the text into one word only: Positive, Negative, or Neutral.",
+        "input_text": "The company culture is good, but the workload is stressful and deadlines are tight.",
+        "output": "Neutral"
+    }
+]
